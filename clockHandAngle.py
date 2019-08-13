@@ -20,3 +20,6 @@ def get_angle(m, h):
     #return angle
 
 get_angle(m,h)
+
+
+#TODO: Create a visual recognition program that can determine the angle between the arms
